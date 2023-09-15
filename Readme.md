@@ -3,8 +3,17 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T830506)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# Accodion Control's Custom Filter Control
+# WinForms Accodion Control - Custom filter UI
 
-The [AccordionControl.FilterControl](https://documentation.devexpress.com/WindowsForms/DevExpress.XtraBars.Navigation.AccordionControl.FilterControl.property) property allows you to assign a custom filter control to the [Accordion](https://documentation.devexpress.com/WindowsForms/114553/Controls-and-Libraries/Navigation-Controls/Accordion-Control) control. This example shows how to create a custom filter control.
+This example creates a custom filter control and assigns it to the [AccordionControl.FilterControl](https://documentation.devexpress.com/WindowsForms/DevExpress.XtraBars.Navigation.AccordionControl.FilterControl.property) property to filter accordion items:
+
+```csharp
+this.accordionControl1.FilterControl = this.customFilterControl1;
+```
 
 ![Custom FilterContrel](HelpResources/Custom.png)
+
+
+## Files to Review
+
+* [CustomFilterControl.cs](./CS/WindowsFormsApp7/CustomFilterControl.cs) (VB: [CustomFilterControl.vb](./VB/WindowsFormsApp7/CustomFilterControl.vb))
