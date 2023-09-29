@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T830506)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# WinForms Accodion Control - Custom filter UI
+# WinForms Accordion Control - Custom filter UI
 
 This example creates a custom filter control and assigns it to the [AccordionControl.FilterControl](https://documentation.devexpress.com/WindowsForms/DevExpress.XtraBars.Navigation.AccordionControl.FilterControl.property) property to filter accordion items:
 
