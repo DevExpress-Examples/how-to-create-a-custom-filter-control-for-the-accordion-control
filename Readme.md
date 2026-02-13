@@ -19,7 +19,7 @@ this.accordionControl1.FilterControl = this.customFilterControl1;
 
 * [CustomFilterControl.cs](./CS/WindowsFormsApp7/CustomFilterControl.cs) (VB: [CustomFilterControl.vb](./VB/WindowsFormsApp7/CustomFilterControl.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-create-a-custom-filter-control-for-the-accordion-control&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-create-a-custom-filter-control-for-the-accordion-control&~~~was_helpful=no)
 
